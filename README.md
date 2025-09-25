@@ -2,6 +2,8 @@
 
 Proyek ini adalah aplikasi sederhana berbasis **ReactJS** yang menampilkan daftar buah segar lengkap dengan gambar, warna, dan harga. Tampilan dibuat menggunakan kombinasi **HTML, CSS, dan React Components** agar lebih interaktif dan responsif.
 
+**LIVE :** https://fruits-list-steel.vercel.app/
+
 ---
 
 ## Fitur
